@@ -22,5 +22,6 @@ fetch(url)
 
     });
     
+    console.log("---Request Sent! Response...---"); 
 
 
